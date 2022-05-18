@@ -1,0 +1,14 @@
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.csproj.AssemblyReference.cache
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.AssemblyInfoInputs.cache
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.AssemblyInfo.cs
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.csproj.CoreCompileInputs.cache
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.exe
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.deps.json
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.runtimeconfig.json
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.runtimeconfig.dev.json
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.dll
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\bin\Debug\netcoreapp3.1\Partie3.pdb
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.dll
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.pdb
+C:\Users\valgo\OneDrive\Bureau\C#\CodingRoom\Partie3\Partie3\obj\Debug\netcoreapp3.1\Partie3.genruntimeconfig.cache
